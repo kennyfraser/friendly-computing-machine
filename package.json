@@ -1,0 +1,22 @@
+{
+  "name": "friendly-computing-machine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/index.js",
+  "scripts": {
+    "version:list": "node ./version.js",
+    "version:update": "node ./version.js",
+    "deploy": "",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kennyfraser/friendly-computing-machine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kennyfraser/friendly-computing-machine/issues"
+  },
+  "homepage": "https://github.com/kennyfraser/friendly-computing-machine#readme"
+}
